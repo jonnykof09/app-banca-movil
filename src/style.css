@@ -477,6 +477,7 @@ main {
 
 /* Footer */
 footer {
+  width: 100%;
   background-color: #004aad;
   color: #fff;
   text-align: center;
